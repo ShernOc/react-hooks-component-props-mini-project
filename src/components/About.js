@@ -11,7 +11,6 @@ function About({image, about }){
 
   );
 }
-
  About.defaultProps = {
   image: "https://via.placeholder.com/215",}; 
 
